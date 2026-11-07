@@ -57,3 +57,9 @@ SWITCH_API_KEY=your_switch_api_key_here
 ```bash
 node index.js
 ```
+# 🚀 LAUNCH DEAL: NOW A NATIVE MCP SERVER FOR CURSOR & CLAUDE CODE!
+
+We just launched on Agensi! You can now run automated PR triages and security audits locally inside your IDE. 
+
+🔥 **7-DAY LAUNCH SALE:** Get it for **$5.09/mo** (Standard $6.00/mo) before the deal expires!
+👉 **[GET THE LATEST DEAL ON AGENSI.IO]** *(Paste your live listing link here)*
